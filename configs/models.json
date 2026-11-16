@@ -1,0 +1,8 @@
+{
+  "qwen": {"model_id": "Qwen/Qwen3-4B-Instruct-2507", "revision": "cdbee75f17c01a7cc42f958dc650907174af0554",
+    "train_batch_size": 4},
+  "phi": {"model_id": "microsoft/Phi-4-mini-instruct", "revision": "cfbefacb99257ffa30c83adab238a50856ac3083",
+    "train_batch_size": 8},
+  "gemma": {"model_id": "google/gemma-3-4b-it", "revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+    "train_batch_size": 8}
+}

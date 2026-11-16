@@ -1,0 +1,10 @@
+# Install into the existing CUDA-enabled .venv. Resolve this stack together;
+# after GPU smoke tests, freeze the actual working versions for reproducibility.
+unsloth
+trl
+transformers
+peft
+datasets
+accelerate
+bitsandbytes
+numpy

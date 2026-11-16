@@ -1,0 +1,9 @@
+[project]
+name = "finance-qlora"
+version = "0.1.0"
+description = "Local finance Q&A dataset preparation and Unsloth QLoRA experiments"
+requires-python = "==3.12.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100

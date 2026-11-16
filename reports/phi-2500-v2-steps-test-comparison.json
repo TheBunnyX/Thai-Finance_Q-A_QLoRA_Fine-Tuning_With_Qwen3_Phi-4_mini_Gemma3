@@ -1,0 +1,72 @@
+{
+  "exact_match": {
+    "before": 0.0,
+    "after": 0.18009478672985782,
+    "delta": 0.18009478672985782
+  },
+  "character_f1": {
+    "before": 0.5249052771616853,
+    "after": 0.821488329914472,
+    "delta": 0.2965830527527866
+  },
+  "numeric_accuracy": {
+    "before": 0.2916666666666667,
+    "after": 0.3611111111111111,
+    "delta": 0.06944444444444442
+  },
+  "unit_accuracy": {
+    "before": null,
+    "after": null,
+    "delta": null
+  },
+  "numeric_and_unit_accuracy": {
+    "before": null,
+    "after": null,
+    "delta": null
+  },
+  "mean_generation_seconds": {
+    "before": 0.8663117460900445,
+    "after": 0.7108126717488054,
+    "delta": -0.1554990743412391
+  },
+  "peak_allocated_gib": {
+    "before": 3.155303955078125,
+    "after": 3.241241455078125,
+    "delta": 0.0859375
+  },
+  "peak_reserved_gib": {
+    "before": 3.234375,
+    "after": 3.423828125,
+    "delta": 0.189453125
+  },
+  "peak_process_ram_gib": {
+    "before": 8.686286926269531,
+    "after": 8.686225891113281,
+    "delta": -6.103515625e-05
+  },
+  "request_latency_median_seconds": {
+    "before": null,
+    "after": null,
+    "delta": null
+  },
+  "request_latency_p95_seconds": {
+    "before": null,
+    "after": null,
+    "delta": null
+  },
+  "ttft_median_seconds": {
+    "before": null,
+    "after": null,
+    "delta": null
+  },
+  "ttft_p95_seconds": {
+    "before": null,
+    "after": null,
+    "delta": null
+  },
+  "subsequent_tokens_per_second": {
+    "before": null,
+    "after": null,
+    "delta": null
+  }
+}
